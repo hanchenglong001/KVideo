@@ -451,7 +451,7 @@
         "id": "leba",
         "name": "乐播资源",
         "baseUrl": "https://lbapi9.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 1
     },
@@ -459,7 +459,7 @@
         "id": "ck",
         "name": "CK",
         "baseUrl": "https://www.ckzy1.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 2
     },
@@ -467,7 +467,7 @@
         "id": "jkun",
         "name": "jkun",
         "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 3
     },
@@ -475,7 +475,7 @@
         "id": "155",
         "name": "155",
         "baseUrl": "https://155api.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 4
     },
@@ -483,7 +483,7 @@
         "id": "lsb",
         "name": "lsb",
         "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 5
     },
@@ -491,7 +491,7 @@
         "id": "hsck",
         "name": "黄色仓库",
         "baseUrl": "https://hsckzy.vip/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 6
     },
@@ -499,7 +499,7 @@
         "id": "yutu",
         "name": "玉兔",
         "baseUrl": "https://yutuzy10.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 7
     },
@@ -507,7 +507,7 @@
         "id": "msnii",
         "name": "美少女资源站",
         "baseUrl": "https://www.msnii.com/api/json.php",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 8
     },
@@ -515,7 +515,7 @@
         "id": "xrbsp",
         "name": "淫水机资源站",
         "baseUrl": "https://www.xrbsp.com/api/json.php",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 9
     },
@@ -523,7 +523,7 @@
         "id": "gdlsp",
         "name": "香奶儿资源站",
         "baseUrl": "https://www.gdlsp.com/api/json.php",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 10
     },
@@ -531,7 +531,7 @@
         "id": "kxgav",
         "name": "白嫖资源站",
         "baseUrl": "https://www.kxgav.com/api/json.php",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 11
     },
@@ -539,7 +539,7 @@
         "id": "pgxdy",
         "name": "黄AV资源站",
         "baseUrl": "https://www.pgxdy.com/api/json.php",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 12
     },
@@ -547,7 +547,7 @@
         "id": "baiwan",
         "name": "百万资源",
         "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 13
     },
@@ -555,7 +555,7 @@
         "id": "madou",
         "name": "91麻豆",
         "baseUrl": "https://91md.me/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 14
     },
@@ -563,7 +563,7 @@
         "id": "aosika",
         "name": "奥斯卡资源",
         "baseUrl": "https://aosikazy.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 15
     },
@@ -571,7 +571,7 @@
         "id": "naixiang",
         "name": "奶香香",
         "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 16
     },
@@ -579,7 +579,7 @@
         "id": "senlin",
         "name": "森林资源",
         "baseUrl": "https://slapibf.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 17
     },
@@ -587,7 +587,7 @@
         "id": "fanhao",
         "name": "番号资源",
         "baseUrl": "http://fhapi9.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 18
     },
@@ -595,7 +595,7 @@
         "id": "jingpin",
         "name": "精品资源",
         "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 19
     },
@@ -603,7 +603,7 @@
         "id": "shayu",
         "name": "鲨鱼资源",
         "baseUrl": "https://shayuapi.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 20
     },
@@ -611,7 +611,7 @@
         "id": "xiaoji",
         "name": "小鸡资源",
         "baseUrl": "https://api.xiaojizy.live/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 21
     },
@@ -619,636 +619,8 @@
         "id": "xibao",
         "name": "细胞采集",
         "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
-        "group": "p",
+        "group": "premium",
         "enabled": true,
         "priority": 22
-    }
-]
-[ { “id”： “飞凡”， “name”： “非凡资源”， “baseUrl”： “http://ffzy5.tv/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 1 }， { “id”： “wolong”， “name”： “卧龙资源”， “baseUrl”： “https://wolongzyw.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 2 }， { “id”： “zuida”， “name”： “最大资源”， “baseUrl”： “https://api.zuidapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 3 }， { “id”： “백度云”， “name”： “百度云资源”， “baseUrl”： “https://api.apibdzy.com/api.php/provide/vod”，“group”：“normal”，“enabled”：true，“priority”： 4 }，{ “id”： “baofeng”， “name”： “暴风资源”， “baseUrl”： “https://bfzyapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 5 }， { “id”： “jisu”， “name”： “极速资源”， “baseUrl”： “https://jszyapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 6 }， { “id”： “天涯资源”， “name”： “天涯资源”， “baseUrl”： “https://tyyszy.com/api.php/provide/vod”， “group”： “normal”， “enabled“： true， ”priority“： 7 }， { ”id“： ”wujin“， ”name“： ”无尽资源“， ”baseUrl“： ”https://api.wujinapi.com/api.php/provide/vod“， ”group“： ”normal“， ”enabled“： true， ”priority“： 8 }， { ”id“： ”modu“， ”name“： ”魔都资源“， ”baseUrl“： ”https://www.mdzyapi.com/api.php/provide/vod“， ”group“： ”normal“， ”enabled“： true， ”priority“： 9 }， { ”id“： ”sanliuling“， ”name“： ”360 资源“， ”baseUrl“： ”https://360zy.com/api.php/provide/vod“， ”group“： ”normal“， ”enabled“： true， ”priority“： 10 }， { ”id“： ”dytt“， ”name“：”电影天堂“， “baseUrl”： “http://caiji.dyttzyapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 11 }， { “id”： “ruyi”， “name”： “如意资源”， “baseUrl”： “https://cj.rycjapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 12 }， { “id”： “wangwang”， “name”： “旺旺资源”， “baseUrl”： “https://wwzy.tv/api.php/provide/vod”，“group”：“normal”，“enabled”：true，“priority”： 13 }，{ “id”： “hongniu”， “name”： “红牛资源”， “baseUrl”： “https://www.hongniuzy2.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 14 }， { “id”： “guangsu”， “name”： “光速资源”， “baseUrl”： “https://api.guangsuapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 15 }， { “id”： “ikun”， “name”： “iKun 资源”， “baseUrl”： “https://ikunzyapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 16 }， { “id”： “youku”， “name”： “优酷资源”， “baseUrl”： “https://api.ukuapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 17 }， { “id”： “huya”， “name”： “虎牙资源”， “baseUrl”： “https://www.huyaapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 18 }， { “id”： “xinlang”， “name”： “新浪资源”， “baseUrl”： “http://api.xinlangapi.com/xinlangapi.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 19 }， { “id”： “lezi”， “name”： “乐子资源”， “baseUrl”： “https://cj.lziapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 20 }， { “id”： “haihua”， “name”： “海豚资源”， “baseUrl”： “https://hhzyapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 21 }， { “id”： “jiangyu”， “name”： “鲸鱼资源”， “baseUrl”： “https://jyzyapi.com/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 22 }， { “id”： “aidan”， “name”： “爱蛋资源”， “baseUrl”： “https://lovedan.net/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 23 }， { “id”： “moduzy”， “name”： “魔都影视”， “baseUrl”： “https://www.moduzy.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 24 }， { “id”： “feifanapi”， “name”： “非凡 API”， “baseUrl”： “https://api.ffzyapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 25 }， { “id”： “feifancj”， “name”： “非凡采集”， “baseUrl”： “http://cj.ffzyapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 26 }， { “id”： “feifancj2”， “name”： “非凡采集 HTTPS”， “baseUrl”： “https://cj.ffzyapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 27 }， { “id”： “feifan1”， “name”： “非凡线路 1”， “baseUrl”： “http://ffzy1.tv/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 28 }， { “id”： “wolong2”， “name”： “卧龙采集”， “baseUrl”： “https://collect.wolongzyw.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 29 }， { “id”： “baofeng2”， “name”： “暴风 APP”， “baseUrl”： “https://app.bfzyapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 30 }， { “id”： “wujin2”， “name”： “无尽 ME”， “baseUrl”： “https://api.wujinapi.me/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 31 }， { “id”： “天涯海角”， “name”： “天涯海角”， “baseUrl”： “https://tyyszyapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 32 }， { “id”： “guangsu2”， “name”： “光速 HTTP”， “baseUrl”： “http://api.guangsuapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 33 }， { “id”： “xinlang2”， “name”： “新浪 HTTPS”， “baseUrl”： “https://api.xinlangapi.com/xinlangapi.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 34 }， { “id”： “yilingba2”， “name”： “1080JSON”， “baseUrl”： “https://api.1080zyku.com/inc/apijson.php”， “group”： “normal”， “enabled”： true， “priority”： 35 }， { “id”： “lezi2”， “name”： “乐子 HTTP”， “baseUrl”： “http://cj.lziapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 36 }， { “id”： “uku88”， “name”： “U 酷资源 88”， “baseUrl”： “https://api.ukuapi88.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 37 }， { “id”： “wujincc”， “name”： “无尽 CC”， “baseUrl”： “https://api.wujinapi.cc/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 38 }， { “id”： “yaya”， “name”： “丫丫点播”， “baseUrl”： “https://cj.yayazy.net/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 39 }， { “id”： “wolongcc”， “name”： “卧龙 CC”， “baseUrl”：“https://collect.wolongzy.cc/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 40 }， { “id”： “wujinnet”， “name”： “无尽 NET”， “baseUrl”： “https://api.wujinapi.net/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 41 }， { “id”： “wangwangapi”， “name”： “旺旺 API”， “baseUrl”： “https://api.wwzy.tv/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 42 }， { “id”： “zuidame”， “name”： “最大点播”， “baseUrl”： “http://zuidazy.me/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 43 }， { “id”： “inghua”， “name”： “樱花资源”， “baseUrl”： “https://m3u8.apiyhzy.com/api.php/provide/vod”，“group”：“normal”，“enabled”：true，“priority”： 44 }， { “id”： “bubugao”， “name”： “步步高资源”， “baseUrl”： “https://api.yparse.com/api/json”， “group”： “normal”， “enabled”： true， “priority”： 45 }， { “id”： “niuniu”， “name”： “牛牛点播”， “baseUrl”： “https://api.niuniuzy.me/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 46 }， { “id”： “suoni”， “name”： “索尼资源”， “baseUrl”： “https://suoniapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 47 }， { “id”： “maotai”， “name”： “茅台资源”， “baseUrl”： “https://caiji.maotaizy.cc/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 48 }， { “id”： “dbzy”， “name”： “豆瓣资源”， “baseUrl”： “https://dbzy.tv/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 49 }， { “id”： “subo”， “name”： “速博资源”，“baseUrl”：“https://subocaiji.com/api.php/provide/vod”，“group”：“normal”，“enabled”：true，“priority”： 50 }， { “id”： “jinying”， “name”： “金鹰点播”， “baseUrl”： “https://jinyingzy.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 51 }， { “id”： “shandian”， “name”： “闪电资源”， “baseUrl”： “https://sdzyapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 52 }， { “id”： “piaoling”， “name”： “飘零资源”， “baseUrl”： “https://p2100.net/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 53 }， { “id”： “modudongman”， “name”： “魔都动漫”， “baseUrl”： “https://caiji.moduapi.cc/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 54 }， { “id”： “hongniu3”， “name”： “红牛资源 3”， “baseUrl”： “https://www.hongniuzy3.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， “priority”： 55 }， { “id”： “suonisd”， “name”： “索尼闪电”， “baseUrl”： “https://xsd.sdzyapi.com/api.php/provide/vod”， “group”： “normal”， “enabled”： true， ”priority“： 56 }， { ”id“： ”leba“， ”name“： ”乐播资源“， ”baseUrl“： ”https://lbapi9.com/api.php/provide/vod“， ”group“： ”p“， ”enabled“： true， ”priority“： 1 }， { ”id“： ”ck“， ”name“： ”CK“， ”baseUrl“： ”https://www.ckzy1.com/api.php/provide/vod“， ”group“： ”p“， ”enabled“： true， ”priority“： 2 }， { ”id“： ”jkun“， ”name“： ”jkun“， ”baseUrl“： ”https://jkunzyapi.com/api.php/provide/vod“， ”group“： ”p“， ”enabled“： true， ”priority“： 3 }， { ”id“： ”155“， ”name“： ”155“， ”baseUrl“： “https://155api.com/api.php/provide/vod”， “group”： “p”， “enabled”： true， “priority”： 4 }， { “id”： “lsb”， “name”： “lsb”， “baseUrl”： “https://apilsbzy1.com/api.php/provide/vod”， “group”： “p”， “enabled”： true， “priority”： 5 }， { “id”： “hsck”， “name”： “黄色仓库”， “baseUrl”： “https://hsckzy.vip/api.php/provide/vod”， “group”： “p”， “enabled”： true， “priority”： 6 }， { “id”： “yutu”， “name”： “玉兔”， “baseUrl”： “https://yutuzy10.com/api.php/provide/vod”， “group”： “p”， “enabled”： true， “priority”： 7 }， { “id”： “msnii”， “name”： “美少女资源站”， “baseUrl”： “https://www.msnii.com/api/json.php”， “group”： “p”， “enabled”： true， “priority”： 8 }， { “id”： “xrbsp”， “name”： “机资源站”， “baseUrl”： “https://www.xrbsp.com/api/json.php”， “group”： “p”， “enabled”： true， “priority”： 9 }， { “id”： “gdlsp”， “name”：“香奶儿资源站”， “baseUrl”： “https://www.gdlsp.com/api/json.php”， “group”： “p”， “enabled”： true， “priority”： 10 }， { “id”： “kxgav”， “name”： “白嫖资源站”， “baseUrl”： “https://www.kxgav.com/api/json.php”， “group”： “p”， “enabled”： true， “priority”： 11 }， { “id”： “pgxdy”， “name”： “yellowAV 资源站”， “baseUrl”： “https://www.pgxdy.com/api/json.php”， “group”： “p”， “enabled”： true， “priority”： 12 }， { “id”： “baiwan”， “name”： “百万资源”， “baseUrl”： “https://api.bwzyz.com/api.php/provide/vod”， “group”： “p”， “enabled”： true， “priority”： 13 }， { “id”： “madou”， “name”： “91 麻豆”， “baseUrl”： “https://91md.me/api.php/provide/vod”， “group”： “p”， “enabled”： true， “priority”： 14 }， { “id”： “aosika”， “name”： “奥斯卡资源”， “baseUrl”： “https://aosikazy.com/api.php/provide/vod”， “group”： “p”， “enabled”： true， “priority”： 15 }， { “id”： “naixiang”， “name”： “奶香香”， “baseUrl”： “https://Naixxzy.com/api.php/provide/vod”， “group”： “p”， “enabled”： true， “priority”： 16 }， { “id”： “senlin”， “name”：“森林资源”， “baseUrl”： “https://slapibf.com/api.php/provide/vod”， “group”： “p”， “enabled”： true， “priority”： 17 }， { “id”： “fanhao”， “name”： “number 资源”， “baseUrl”： “http://fhapi9.com/api.php/provide/vod”， “group”： “p”， “enabled”： true， “priority”： 18 }， { “id”： “jingpin”， “name”： “精品资源”， “baseUrl”： “https://www.jingpinx.com/api.php/provide/vod”，“group”：“p”，“enabled”： true，“priority”： 19 }， { “id”： “shayu”， “name”： “鲨鱼资源”， “baseUrl”： “https://shayuapi.com/api.php/provide/vod”， “group”： “p”， “enabled”： true， “priority”： 20 }， { “id”： “xiaoji”， “name”： “小鸡资源”， “baseUrl”： “https://api.xiaojizy.live/provide/vod”， “group”： “p”， “enabled”： true， “priority”： 21 }， { “id”： “xibao”， “name”： “细胞采集”， “baseUrl”： “https://www.xxibaozyw.com/api.php/provide/vod”， “group”： ”高级“，”启用“：真，”优先级“：22 } ]
-
-[
-    {
-“id”：“飞凡”
-“名称”：“非凡资源”，
-“baseUrl”： “http://ffzy5.tv/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：1
-    },
-    {
-“id”：“沃隆”，
-“名称”：“卧龙资源”，
-“baseUrl”： “https://wolongzyw.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：2
-    },
-    {
-“id”：“zuida”，
-“名称”：“最大资源”，
-“baseUrl”：“https://api.zuidapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：3
-    },
-    {
-“id”：“白斗云”
-“名称”：“百度云资源”，
-“baseUrl”： “https://api.apibdzy.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：4
-    },
-    {
-“id”：“包风”
-“名称”：“暴风资源”，
-“baseUrl”： “https://bfzyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：5
-    },
-    {
-“id”：“智秀”
-“名称”：“极速资源”，
-“baseUrl”： “https://jszyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：6
-    },
-    {
-“id”：“天雅”，
-“名称”：“天涯资源”，
-“baseUrl”：“https://tyyszy.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：7
-    },
-    {
-“id”：“武神”，
-“name”：“无尽资源”，
-“baseUrl”： “https://api.wujinapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：8
-    },
-    {
-“id”：“modu”，
-“名称”：“魔都资源”，
-“baseUrl”：“https://www.mdzyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：9
-    },
-    {
-“id”：“三六令”
-“名称”：“360资源”，
-“baseUrl”：“https://360zy.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：10
-    },
-    {
-“id”： “dytt”，
-“名字”：“电影天堂”，
-“baseUrl”：“http://caiji.dyttzyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：11
-    },
-    {
-“id”：“如懿”，
-“name”：“如意资源”，
-“baseUrl”：“https://cj.rycjapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：12
-    },
-    {
-“id”：“王王”
-“名称”：“旺旺资源”，
-“baseUrl”： “https://wwzy.tv/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：13
-    },
-    {
-“id”：“红牛”
-“名称”：“红牛资源”，
-“baseUrl”：“https://www.hongniuzy2.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：14
-    },
-    {
-“id”：“广苏”，
-“名称”：“光速资源”，
-“baseUrl”：“https://api.guangsuapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：15
-    },
-    {
-“id”：“ikun”，
-“名称”：“iKun 资源”，
-“baseUrl”：“https://ikunzyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：16
-    },
-    {
-“id”：“Youku”
-“名称”：“优酷资源”，
-“baseUrl”： “https://api.ukuapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：17
-    },
-    {
-“id”：“呼呀”
-“名称”：“虎牙资源”，
-“baseUrl”： “https://www.huyaapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：18
-    },
-    {
-“id”：“新浪”，
-“名称”：“新浪资源”，
-“baseUrl”：“http://api.xinlangapi.com/xinlangapi.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：19
-    },
-    {
-“id”： “lezi”
-“名称”：“乐子资源”，
-“baseUrl”：“https://cj.lziapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：20
-    },
-    {
-“id”：“海华”，
-“名称”：“海豚资源”，
-“baseUrl”：“https://hhzyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：21
-    },
-    {
-“id”：“江宇”
-“名称”：“鲸鱼资源”，
-“baseUrl”：“https://jyzyapi.com/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：22
-    },
-    {
-“ID”：“艾丹”
-“名称”：“爱蛋资源”，
-“baseUrl”： “https://lovedan.net/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：23
-    },
-    {
-“id”：“Moduzy”，
-“名字”：“魔都影视”，
-“baseUrl”：“https://www.moduzy.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：24
-    },
-    {
-“id”：“feifanapi”，
-“name”：“非凡 API”，
-“baseUrl”：“https://api.ffzyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：25
-    },
-    {
-“id”：“feifancj”，
-“名称”：“非凡采集”，
-“baseUrl”：“http://cj.ffzyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：26
-    },
-    {
-“id”：“feifancj2”，
-“name”：“非凡采集 HTTPS”，
-“baseUrl”： “https://cj.ffzyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：27
-    },
-    {
-“id”：“feifan1”，
-“名称”：“非凡线路1”，
-“baseUrl”： “http://ffzy1.tv/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：28
-    },
-    {
-“id”：“wolong2”，
-“名称”：“卧龙采集”，
-“baseUrl”： “https://collect.wolongzyw.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：29
-    },
-    {
-“id”：“宝风 2”，
-“名称”：“暴风 APP”，
-“baseUrl”： “https://app.bfzyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：30
-    },
-    {
-“id”：“Wujin2”，
-“name”：“无尽 ME”，
-“baseUrl”： “https://api.wujinapi.me/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：31
-    },
-    {
-“id”：“天雅子”
-“名字”：“天涯海角”，
-“baseUrl”：“https://tyyszyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：32
-    },
-    {
-“id”：“广苏 2”，
-“name”： “光速 HTTP”，
-“baseUrl”： “http://api.guangsuapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：33
-    },
-    {
-“id”： “xinlang2”，
-“名称”：“新浪 HTTPS”，
-“baseUrl”： “https://api.xinlangapi.com/xinlangapi.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：34
-    },
-    {
-“id”：“yilingba2”，
-“name”： “1080JSON”，
-“baseUrl”： “https://api.1080zyku.com/inc/apijson.php”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：35
-    },
-    {
-“id”：“lezi2”，
-“name”： “乐子 HTTP”，
-“baseUrl”：“http://cj.lziapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：36
-    },
-    {
-“id”：“uku88”，
-“名称”：“U 酷资源 88”，
-“baseUrl”： “https://api.ukuapi88.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：37
-    },
-    {
-“id”：“武进奇”
-“name”：“无尽 CC”，
-“baseUrl”： “https://api.wujinapi.cc/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：38
-    },
-    {
-“id”： “yaya”
-“名字”：“丫丫点播”，
-“baseUrl”：“https://cj.yayazy.net/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：39
-    },
-    {
-“id”：“wolongcc”，
-“名称”：“卧龙 CC”，
-“baseUrl”：“https://collect.wolongzy.cc/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：40
-    },
-    {
-“id”：“Wujinnet”，
-“name”： “无尽 NET”，
-“baseUrl”：“https://api.wujinapi.net/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：41
-    },
-    {
-“id”：“旺旺加皮”，
-“名称”：“旺旺 API”，
-“baseUrl”：“https://api.wwzy.tv/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：42
-    },
-    {
-“id”：“Zuidame”，
-“name”：“最大点播”，
-“baseUrl”：“http://zuidazy.me/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：43
-    },
-    {
-“id”：“英华”，
-“名称”：“樱花资源”，
-“baseUrl”：“https://m3u8.apiyhzy.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：44
-    },
-    {
-“id”：“bubugao”，
-“名称”：“步步高资源”，
-“baseUrl”：“https://api.yparse.com/api/json”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：45
-    },
-    {
-“id”：“牛牛”
-“名称”：“牛牛点播”，
-“baseUrl”： “https://api.niuniuzy.me/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：46
-    },
-    {
-“id”：“suoni”，
-“名称”：“索尼资源”，
-“baseUrl”：“https://suoniapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：47
-    },
-    {
-“id”：“毛台”，
-“名称”：“茅台资源”，
-“baseUrl”： “https://caiji.maotaizy.cc/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：48
-    },
-    {
-“id”： “dbzy”，
-“名称”：“豆瓣资源”，
-“baseUrl”：“https://dbzy.tv/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：49
-    },
-    {
-“id”：“subo”，
-“名称”：“速博资源”，
-“baseUrl”： “https://subocaiji.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：50
-    },
-    {
-“id”：“金英”
-“名称”：“金鹰点播”，
-“baseUrl”： “https://jinyingzy.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：51
-    },
-    {
-“id”：“山甸”，
-“名称”：“闪电资源”，
-“baseUrl”：“https://sdzyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：52
-    },
-    {
-“id”：“piaoling”，
-“名称”：“飘零资源”，
-“baseUrl”：“https://p2100.net/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：53
-    },
-    {
-“id”：“Modudongman”，
-“名字”：“魔都动漫”，
-“baseUrl”：“https://caiji.moduapi.cc/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：54
-    },
-    {
-“id”：“鸿牛 3”，
-“名称”：“红牛资源3”，
-“baseUrl”： “https://www.hongniuzy3.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：55
-    },
-    {
-“id”：“suonisd”，
-“名字”：“索尼-闪电”，
-“baseUrl”：“https://xsd.sdzyapi.com/api.php/provide/vod”，
-“群体”：“正常”，
-“启用”：真，
-“优先级”：56
-    },
-    {
-“id”：“leba”，
-“name”： “乐播资源”，
-“baseUrl”： “https://lbapi9.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：1
-    },
-    {
-“id”： “ck”，
-“名称”：“CK”，
-“baseUrl”： “https://www.ckzy1.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：2
-    },
-    {
-“id”：“jkun”，
-“名字”：“JKUN”，
-“baseUrl”：“https://jkunzyapi.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：3
-    },
-    {
-“id”：“155”，
-“姓名”：“155”
-“baseUrl”：“https://155api.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：4
-    },
-    {
-“id”：“LSB”，
-“名称”：“LSB”，
-“baseUrl”：“https://apilsbzy1.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：5
-    },
-    {
-“ID”：“HSCK”，
-“名称”：“黄色仓库”，
-“baseUrl”：“https://hsckzy.vip/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：6
-    },
-    {
-“id”：“玉图”
-“名字”：“玉兔”，
-“baseUrl”：“https://yutuzy10.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：7
-    },
-    {
-“id”：“msnii”，
-“姓名”：“美少女资源站”，
-“baseUrl”：“https://www.msnii.com/api/json.php”，
-“group”：“高级”
-“启用”：真，
-“优先级”：8
-    },
-    {
-“id”： “xrbsp”，
-“名称”：“机资源站”，
-“baseUrl”：“https://www.xrbsp.com/api/json.php”，
-“group”：“高级”
-“启用”：真，
-“优先级”：9
-    },
-    {
-“id”： “gdlsp”，
-“name”：“香奶儿资源站”，
-“baseUrl”： “https://www.gdlsp.com/api/json.php”，
-“group”：“高级”
-“启用”：真，
-“优先级”：10
-    },
-    {
-“id”：“kxgav”，
-“name”：“白嫖资源站”，
-“baseUrl”：“https://www.kxgav.com/api/json.php”，
-“group”：“高级”
-“启用”：真，
-“优先级”：11
-    },
-    {
-“id”：“PGXDY”，
-“名称”：“黄 AV 资源站”，
-“baseUrl”：“https://www.pgxdy.com/api/json.php”，
-“group”：“高级”
-“启用”：真，
-“优先级”：12
-    },
-    {
-“id”：“白湾”
-“名称”：“百万资源”，
-“baseUrl”： “https://api.bwzyz.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：13
-    },
-    {
-“id”：“魔豆”，
-“姓名”：“91麻豆”，
-“baseUrl”： “https://91md.me/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：14
-    },
-    {
-“id”：“aosika”，
-“名称”：“奥斯卡资源”，
-“baseUrl”： “https://aosikazy.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：15
-    },
-    {
-“id”：“奈香”，
-“名字”：“奶香香”，
-“baseUrl”： “https://Naixxzy.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：16
-    },
-    {
-“id”：“senlin”，
-“名称”：“森林资源”，
-“baseUrl”： “https://slapibf.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：17
-    },
-    {
-“id”：“樊浩”，
-“name”： “编号资源”，
-“baseUrl”：“http://fhapi9.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：18
-    },
-    {
-“id”：“针针”
-“名称”：“精品资源”，
-“baseUrl”：“https://www.jingpinx.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：19
-    },
-    {
-“id”：“Shayu”，
-“名称”：“鲨鱼资源”，
-“baseUrl”： “https://shayuapi.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：20
-    },
-    {
-“id”：“小吉”
-“名称”：“小鸡资源”，
-“baseUrl”：“https://api.xiaojizy.live/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：21
-    },
-    {
-“id”：“西宝”，
-“名称”：“细胞采集”，
-“baseUrl”： “https://www.xxibaozyw.com/api.php/provide/vod”，
-“group”：“高级”
-“启用”：真，
-“优先级”：22
     }
 ]
